@@ -1,5 +1,4 @@
 requests
 dotenv
 telegram
-logging
-telegram.ext
+python-telegram-bot
