@@ -1,0 +1,5 @@
+requests
+dotenv
+telegram
+logging
+telegram.ext
