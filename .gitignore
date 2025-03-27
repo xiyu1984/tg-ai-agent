@@ -1,3 +1,5 @@
 .env
 __pycache__
 users.db
+tg-tw-binder.service
+cmd.sh
